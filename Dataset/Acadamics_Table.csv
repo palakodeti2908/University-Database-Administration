@@ -1,0 +1,31 @@
+Student_ID,Attendance,Experience_TA/RA,Course_related_internships,GPA
+1,59,TA,Yes ,3.70 
+2,49,RA,No,3.80 
+3,69,Null,Yes ,3.41 
+4,98,TA,No,4.00 
+5,75,RA,Yes ,3.60 
+6,70,TA,No,3.75 
+7,93,RA,Yes ,3.51 
+8,94,TA,No,3.89 
+9,87,RA,Yes ,3.70 
+10,76,TA,No,3.80 
+11,65,RA,Yes ,3.41 
+12,68,TA,No,4.00 
+13,72,RA,Yes ,3.60 
+14,99,TA,No,3.75 
+15,100,RA,Yes ,3.51 
+16,92,TA,No,3.89 
+17,94,RA,Yes ,3.70 
+18,96,TA,No,3.80 
+19,98,RA,Yes ,3.41 
+20,88,TA,No,4.00 
+21,50,RA,Yes ,3.60 
+22,52,Null,No,3.75 
+23,54,Null,Yes ,3.51 
+24,77,RA,No,3.89 
+25,78,TA,Yes ,3.70 
+26,79,RA,No,3.80 
+27,80,TA,Yes ,3.41 
+28,82,RA,No,4.00 
+29,84,TA,Yes ,3.60 
+30,85,RA,No,3.75 

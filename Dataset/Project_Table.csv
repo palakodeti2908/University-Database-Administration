@@ -1,0 +1,31 @@
+Project_ID,Project_Domain,Faculty_ID,Project_Funding
+51,E-Commerce ,111,Self
+52,Web Development,222,Public
+53,Banking,333,Private 
+54,Finance ,444,Self
+55,Health care,555,Public
+56,Stock Market,666,Private 
+57,Retail,777,Self
+58,Drug,888,Public
+59,Airlines,999,Private 
+60,Food,123,Self
+61,Railway,234,Public
+62,Seaways,345,Private 
+63,Media,456,Self
+64,Global Warming,567,Public
+65,Accounts,678,Private 
+66,Consulting ,789,Self
+67,Face Recognition,901,Public
+68,Sales ,112,Private 
+69,Funding ,113,Self
+70,Laws,114,Public
+71,Spam Detection,111,Private 
+72,Tags Prediction ,222,Self
+73,Customer Churn Rate ,333,Public
+74,Sentiment Analysis,444,Private 
+75,Weather Prediction,555,Self
+76,Robotics,666,Public
+77,Artificial Intelligence,777,Private 
+78,Supply Chain,888,Self
+79,Traffic Signals ,999,Public
+80,Regulatory Affairs ,123,Private 
